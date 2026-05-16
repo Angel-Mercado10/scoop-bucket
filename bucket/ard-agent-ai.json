@@ -1,17 +1,17 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ARD-ARCHITECT — AI agent that helps define and evolve software architecture decisions through Socratic dialogue. Generates Architecture Record Documents (ARDs).",
   "homepage": "https://github.com/Angel-Mercado10/ard-agent-ai",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Angel-Mercado10/ard-agent-ai/releases/download/v1.0.1/ard-agent-ai_1.0.1_windows_amd64.zip",
-      "hash": "3ad26b39aca9cde0e5a2174ba4cc9b24b27f590dd33956397c683f700bdc6a96",
+      "url": "https://github.com/Angel-Mercado10/ard-agent-ai/releases/download/v1.0.2/ard-agent-ai_1.0.2_windows_amd64.zip",
+      "hash": "cacfcadb70da9ae5154f2dbc393480c88bb2d1acd20fa44589562d75409a61a8",
       "bin": "ard-agent-ai.exe"
     },
     "arm64": {
-      "url": "https://github.com/Angel-Mercado10/ard-agent-ai/releases/download/v1.0.1/ard-agent-ai_1.0.1_windows_arm64.zip",
-      "hash": "a0b730251358887397b5b45deda4435ae5004e4ad7d45f76cc0db3558908d348",
+      "url": "https://github.com/Angel-Mercado10/ard-agent-ai/releases/download/v1.0.2/ard-agent-ai_1.0.2_windows_arm64.zip",
+      "hash": "3a10995812dfe1d6643b795fa98409c0b5f312b57828f34c1350d8c7071191c3",
       "bin": "ard-agent-ai.exe"
     }
   },
